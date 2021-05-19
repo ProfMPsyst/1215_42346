@@ -12,6 +12,7 @@ package studobjectarray;
  */
 public class Student {
     private String name;
+    private String studentId;
 
     /**
      * @return the name
